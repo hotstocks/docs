@@ -3,7 +3,7 @@
 Market generates the data every second, day and week. The data visualization is prepared on basis of daily movement, weekly movement or monthly movement by implementing moving average method. 
 
 
-![](fig/OHLC.png)
+![](img/OHLC.png)
 
 
 
