@@ -30,3 +30,22 @@
 - Advanced Portfolio Optimization
 
 ### AI Algorithms in Trading
+
+- Natural Language Processing
+- Text Processing
+- Financial Statements
+- Basic NLP Analysis
+- Neural Networks
+- Deep Learning
+- Recurrent Neural Networks
+- Embedding and Word2Vec
+- Sentiment Prediction RNN
+- Decision Tree
+- Random Forest
+- Feature Engineering
+- Overlaping Labels
+- Feature Importance
+- Enhanced Alpha Research
+- Backtesting: Use backtesting to determine whether or not your strategies can be generalizable to future unseen data.
+- Optimization with transection costs: optimize the portfolio return in a backtest more realistic and more computationally efficient way
+- Attribution : Use performance attribution to determine how each factor contribute to the protfolio's return
