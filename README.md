@@ -2,18 +2,18 @@
 
 ### Quantative Trading
 
-- Stock Prices
-- Market Mechanics
-- Data Processing
-- Stock Returns
-- Momentum Trading
-- Quant Workflow
-- Outliers and Filters
-- Regression
-- Time Series Modeling
-- Volatility
-- Pairs Trading and Mean Reversion
-- Breakout Strategy
+- **Stock Prices**: Learn about stocks and common terminology used when analyzing stocks.
+- **Market Mechanics**: Learn how modern stock market function, how trades are executed and proces are set. Study market behaviour, and analyze price and volume data to identify potential trading.
+- **Data Processing**: Learn how to adjust market data for corporate actions, include fundamenta; information in your analysis and compute technical indicators.
+- **Stock Returns**: Learn how to calculate stock returns, and log returns in particular. Learn why log returns are used to analyze financial data.
+- **Momentum Trading**: Learn about alpha signals, and how they can be applied to a long/short trading strategy. Learn about momentum, a common alpha signal used in trading startegies.
+- **Quant Workflow**: Learn about the overall quant workflow, including alpha signal generation, alpha combination, portfolio optimization and trading.
+- **Outliers and Filters**: Learn the importance of outliers and how to detect them. Learn about methods designed to handle outliers.
+- **Regression**: Learn regression and related statistical tools that preprocess data before regression analysis. See how regression relates to trading and other more advanced methods.
+- **Time Series Modeling**: Learn about advanced methods for time series analysis, including ARMA, ARIMA, Kalman Filters, and recurrent neural networks.
+- **Volatility**: Learn about stock volatility, and how GARCH model analysis volatility. See how volatility is used in equity trading.
+- **Pairs Trading and Mean Reversion**: learn about pairs trading, and study the tools used in identifying stock pairs and making trading decision.
+- **Breakout Strategy**: 
 - Stock Indices and Funds
 - ETFs
 - Portfolio Risk and Return
