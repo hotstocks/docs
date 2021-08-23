@@ -30,7 +30,7 @@ In summary, a portfolio is a collection of investments held and/or managed by an
 **Momentum Based Trading Strategy** : In order to formulate complete trading strategy, one need to classify stocks in the portfolio into long and short position. The selection process of the stocks to go into the portfolio is based on stock's return performance relative to the other stocks. This step is conducted every month end periodically re-evaluating and re-balancing stock holding. 
 
     
-!img[](/select.png)
+!img[](img/select.png)
 
     
 In order to re-balancing the portfolio in Long and Short list, one need to create a log return withing the selected period (month) and sort the stock based on that return. Top list goes to Long while bottom list goes to Short.
