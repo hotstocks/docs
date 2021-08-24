@@ -1,4 +1,17 @@
-### Market Dynamics
+### Market Mechanics
+
+### Farmer's Market
+
+
+### Trading Stocks
+
+
+### Liquidity
+
+
+### Tick Data
+
+### OHLC
 
 Market generates the data every second, day and week. The data visualization is prepared on basis of daily movement, weekly movement or monthly movement by implementing moving average method. 
 
@@ -14,3 +27,14 @@ Market generates the data every second, day and week. The data visualization is 
 -  Market cap—or market capitalization—refers to the total value of all a company's shares of stock. It is calculated by multiplying the price of a stock by its total number of outstanding shares. For example, a company with 20 million shares selling at \$50 a share would have a market cap of \$1 billion
 
 -  The P/E ratio shows what the market is willing to pay today for a stock based on its past or future earnings. A high P/E could mean that a stock's price is high relative to earnings and possibly overvalued. Conversely, a low P/E might indicate that the current stock price is low relative to earnings.
+
+
+### Volume
+
+
+### Gaps in Market Data
+
+
+### Markets in different time zone
+
+
