@@ -1,4 +1,6 @@
-### Momentum Trading
+## Momentum Trading
+
+
 A trading strategy is a set of rules that helps to decide what stock to buy or sell, when to perform these trades and how much money to invest in them.Designing a successful trading strategy that reliably generates profits while minimizing the risk of losing money is indeed a complex task. It starts with looking for signals that might hold a clue about the future performance of stocks. Where do we find such signals? There is nothing famous for trading signals that globally works in all cases. You need to develop your own strategy through market stimuli (News, media sentiment, company progress etc). It is important to treat it as a hypothesis and test it against data to see if it holds up.This will allow you to build a strong foundation for your trading strategy.
 
 

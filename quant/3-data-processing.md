@@ -1,4 +1,55 @@
-### Fundamental Analysis
+### Data Processing
+
+
+### Market Data
+
+
+
+### When to use Time Stamp
+
+
+
+### Corporate Actions
+
+
+
+### Technical Indicators
+
+
+
+### Missing Values
+
+
+### Trading Days
+
+
+### Survivor Bias
+
+
+### Fundamental Information
+
+
+### Price Earning Ratio
+
+
+### Exchange Traded Funds
+
+
+
+### Index vs ETF
+
+
+### Alternative Data
+
+
+### Satellite Data
+
+
+
+
+
+
+
 
 Fundamental analysis of a company involves looking at a company’s balance sheet and cash flow statements, which are usually updated every quarter, which is every three months when the company reports earnings. It’s important to keep in mind that looking at a single quarter’s metrics is only a snapshot of the company, and there are several metrics that each try to capture the health of the company, but in slightly different ways.
 
