@@ -18,14 +18,11 @@
 - **ETFs**: Learn about Exchanged Traded Funds (ETFs) and how they are used by investors and fund managers. 
 - **Portfolio Risk and Return**: Learn the fundamentals of portfolio theory, which are key to desining portfolios for mutual funds, hedge funds and ETFs
 - **Portfolio Optimization**: Build a smart beta portfolio against an index and optimize a portfolio using quadratic programming.
-- **Quadratic Programming**: 
-- **Quantum Algorithms**:
 - **Factors**: Learn about Factor investing and alpha research.
 - **Factor Models and Types of Factors**: Learn the theory of factor models, distinguish between alpha and risk factors, and get an overview of types of factors.
 - **Risk Factor Models**: Learn how to model portfolio risk using factors.
 - **Time Series and Cross-sectional Risk Models**: Learn about two important types of risk models: time series and cross-sectional risk models.
-- **Risk Factor Models with PCA**: 
-- Alpha Factors
+- **Risk Factor Models with PCA**: Alpha Factors
 - **Alpha Factor and Research Methods**: Learn about alpha research from a practioner's perspective.
 - **Advanced Portfolio Optimization**: Learn about portfolio optimization using alpha factors and risk factor models.
 
